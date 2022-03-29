@@ -1,1 +1,1 @@
-https://alexsoloveiko.github.io/my-site/
+https://alexsoloveiko.github.io/skillUp/
